@@ -19,4 +19,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=jyotinayak321&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/jyoti-nayak-988611290/)
+[![LinkedIn](www.linkedin.com/in/jyoti-nayak-988611290)
