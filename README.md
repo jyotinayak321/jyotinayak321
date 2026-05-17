@@ -125,7 +125,7 @@ Open for: Full-time roles, internships, collaborations
 ---
 ## 📫 Let's Connect!
 
-- 📧 Email: jyoti@example.com
-- 🔗 LinkedIn: [Your LinkedIn]
+- 📧 Email: rajeshware321@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jyoti-nayak-988611290/
 - 💻 GitHub: jyotinayak321
-- 🌐 Portfolio: [Live Career Mentor Link]
+- 🌐 Portfolio: https://jyotinayak321.github.io/MY_PORTFOLIO/
