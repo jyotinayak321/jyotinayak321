@@ -1,8 +1,12 @@
 # Hi, I'm Jyoti Nayak! 👋
 
-🤖 I talk to AIs for a living
-💻 Full Stack Dev | Prompt Engineer
-🚀 Shipping ideas one API call at a time
+🚀 AI/ML Engineer | Full-Stack Builder
+B.Tech CSE | Defence AI Enthusiast | Google aspirant
+Building: LLMs • RAG Systems • Autonomous AI
+UDAAN IAF Intern | Autonomous AI Career Mentor creator
+FastAPI | React | LangChain | Production AI
+Open to Google SWE & Defence Tech roles
+Let's connect! 💻
 
 ## 🛠️ My Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
