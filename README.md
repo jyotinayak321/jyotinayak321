@@ -28,7 +28,6 @@ Open to: AI/ML roles | Internships | Collaborations
 - 🔗 AI Document Intelligence System (FastAPI + Groq)
 - 🔗 Carbon Tracker (React + Vercel)
 
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
@@ -36,7 +35,7 @@ Open to: AI/ML roles | Internships | Collaborations
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotinayak321&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=dark)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=dark)
 
 
 ### 🛠️ Skills & Tech Stack
