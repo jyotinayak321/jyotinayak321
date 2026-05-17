@@ -31,10 +31,17 @@ Open to: AI/ML roles | Internships | Collaborations
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotinayak321&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotinayak321&layout=compact&theme=dark)
 
+| Stat | Details |
+|------|---------|
+| 👤 Profile | [jyotinayak321](https://github.com/jyotinayak321) |
+| 🐍 Primary Language | Python |
+| 💻 Total Repositories | [View on GitHub](https://github.com/jyotinayak321?tab=repositories) |
+| ⭐ Featured | Autonomous AI Career Mentor |
+| 🔥 Status | Active |
+
+[Visit my GitHub Profile →](https://github.com/jyotinayak321)
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=dark)
 
 
