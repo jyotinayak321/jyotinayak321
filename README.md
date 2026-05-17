@@ -32,29 +32,52 @@ Open to: AI/ML roles | Internships | Collaborations
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotinayak321&layout=compact&theme=dark" />
 
-  
-## 🛠️ My Skills
+
+### 🛠️ Skills & Tech Stack
+
+**Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tech Stack
+**Backend & APIs:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Languages:** Python | JavaScript | Java | SQL | HTML/CSS
+**Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend:** FastAPI | Flask | Node.js | MongoDB | PostgreSQL
+**AI/ML:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-013243?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge)
 
-**Frontend:** React | Vite | Tailwind CSS
+**Cloud & DevOps:**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**AI/ML:** LangChain | LLaMA | FAISS | RAG | Groq API | spaCy
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Tools & DevOps:** Docker | Git | Vercel | Render | PyCharm | VS Code
+---
+## 🤖 My Top Projects
 
-**Cloud:** Google Cloud (Badges: Responsible AI, LLMs, GenAI)
+| Project | Tech | Status |
+|---------|------|--------|
+| AI Career Mentor | FastAPI+React+LangChain | ✅ Live |
+| PDF-RAG System | Python+FAISS+Groq | ✅ Open Source |
 
-
+---
 
 ## 💼 Experience
 
@@ -87,8 +110,16 @@ I love:
 ✅ Contributing to Defence & National Security through AI
 
 Open for: Full-time roles, internships, collaborations
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jyotinayak321&show_icons=true&theme=radical)
 
-## 📫 Connect With Me
-[![LinkedIn](www.linkedin.com/in/jyoti-nayak-988611290)
+## 🎓 Certifications & Achievements
+
+✅ Google Cloud Badges (Responsible AI, LLMs, GenAI)
+✅ UDAAN IAF Defence AI Internship ( Currently doing)
+✅ Full-Stack AI Development Experience
+---
+## 📫 Let's Connect!
+
+- 📧 Email: jyoti@example.com
+- 🔗 LinkedIn: [Your LinkedIn]
+- 💻 GitHub: jyotinayak321
+- 🌐 Portfolio: [Live Career Mentor Link]
