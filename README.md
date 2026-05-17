@@ -28,9 +28,19 @@ Open to: AI/ML roles | Internships | Collaborations
 - 🔗 AI Document Intelligence System (FastAPI + Groq)
 - 🔗 Carbon Tracker (React + Vercel)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotinayak321&show_icons=true&theme=dark" alt="GitHub Stats" />
+## 📊 GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotinayak321&layout=compact&theme=dark" />
+### Stats Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotinayak321&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b27&text_color=c9cacc&icon_color=79c0ff)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotinayak321&layout=pie&theme=tokyonight&hide_border=true)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=tokyonight&hide_border=true)
+
+### GitHub Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jyotinayak321&theme=tokyo-night)
 
 
 ### 🛠️ Skills & Tech Stack
