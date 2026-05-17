@@ -88,6 +88,9 @@ Open to: AI/ML roles | Internships | Collaborations
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=dark)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jyotinayak321&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 ## 🤖 My Top Projects
 
