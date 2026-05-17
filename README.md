@@ -30,27 +30,13 @@ Open to: AI/ML roles | Internships | Collaborations
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Analytics
 
-### 📈 Stats Overview
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotinayak321&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b27&text_color=c9cacc&icon_color=79c0ff&include_all_commits=true&line_height=27)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotinayak321&show_icons=true&theme=dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotinayak321&layout=compact&theme=dark)
 
-### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotinayak321&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc&langs_count=10)
-
----
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=tokyonight&hide_border=true&background=1a1b27&stroke=79c0ff&ring=79c0ff&fire=FF6B6B&currStreakLabel=79c0ff)
-
----
-
-### 📊 Annual Contribution Activity
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jyotinayak321&theme=tokyo-night&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=79c0ff&area=true&hide_border=true)
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=dark)
 
 
 ### 🛠️ Skills & Tech Stack
