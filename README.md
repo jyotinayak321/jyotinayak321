@@ -13,6 +13,7 @@ Google SWE aspirant | Defence Tech enthusiast
 Open to: AI/ML roles | Internships | Collaborations
 
 📍 Delhi | GitHub: jyotinayak321
+
 ---
 ### 🛠️ Skills & Tech Stack
 
