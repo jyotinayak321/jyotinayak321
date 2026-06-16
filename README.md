@@ -7,7 +7,7 @@ B.Tech CSE (MDU) | CGPA 7.9 | Defence AI Enthusiast
 Building intelligent systems with LLMs, RAG & Autonomous AI
 📌 Skills: FastAPI | React | LangChain | MongoDB | Docker
 📌 Current: Autonomous AI Career Mentor (FastAPI + LangChain + FAISS)
-📌 Experience: UDAAN IAF Defence AI Internship
+📌 Experience: 
 
 Google SWE aspirant | Defence Tech enthusiast
 Open to: AI/ML roles | Internships | Collaborations
@@ -104,7 +104,7 @@ Open to: AI/ML roles | Internships | Collaborations
 
 ## 💼 Experience
 
-### UDAAN IAF - Defence AI Internship
+### _ - Defence AI Internship
 **Duration:** [Months] | **Location:** [IAF Unit]
 - Worked on Defence AI applications
 - [Specific project details]
@@ -137,7 +137,7 @@ Open for: Full-time roles, internships, collaborations
 ## 🎓 Certifications & Achievements
 
 ✅ Google Cloud Badges (Responsible AI, LLMs, GenAI)
-✅ UDAAN IAF Defence AI Internship ( Currently doing)
+✅  AI Internship ( Currently doing)
 ✅ Full-Stack AI Development Experience
 ---
 ## 📫 Let's Connect!
