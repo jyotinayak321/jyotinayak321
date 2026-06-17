@@ -104,8 +104,8 @@ Open to: AI/ML roles | Internships | Collaborations
 
 ## 💼 Experience
 
-### _ - Defence AI Internship
-**Duration:** [Months] | **Location:** [IAF Unit]
+### _ -  AI Internship
+**Duration:** [Months] | **Location:** [ Unit]
 - Worked on Defence AI applications
 - [Specific project details]
 - Skills: Python, AI/ML, [specific tech]
