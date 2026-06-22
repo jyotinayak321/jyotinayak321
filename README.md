@@ -1,4 +1,4 @@
-# Hi, I'm Jyoti Nayak! 👋
+# Hi, I'm Jyoti Nayak!
 
 
 🚀 AI/ML Software Engineer | Full-Stack Builder
