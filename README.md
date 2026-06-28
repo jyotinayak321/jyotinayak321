@@ -15,6 +15,7 @@ Open to: AI/ML roles | Internships | Collaborations
 📍 Delhi | GitHub: jyotinayak321
 
 ---
+
 ### 🛠️ Skills & Tech Stack
 
 **Languages:**
@@ -146,3 +147,5 @@ Open for: Full-time roles, internships, collaborations
 - 🔗 LinkedIn: https://www.linkedin.com/in/jyoti-nayak-988611290/
 - 💻 GitHub: jyotinayak321
 - 🌐 Portfolio: https://jyotinayak321.github.io/MY_PORTFOLIO/
+
+  
