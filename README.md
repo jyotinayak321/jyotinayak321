@@ -2,7 +2,7 @@
 
 
 🚀 AI/ML Software Engineer | Full-Stack Builder
-B.Tech CSE (MDU) | CGPA 7.9 | Defence AI Enthusiast
+B.Tech CSE  | CGPA 7.9 | Defence AI Enthusiast
 
 Building intelligent systems with LLMs, RAG & Autonomous AI
 📌 Skills: FastAPI | React | LangChain | MongoDB | Docker
