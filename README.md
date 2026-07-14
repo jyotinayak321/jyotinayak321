@@ -120,7 +120,7 @@ Open to: AI/ML roles | Internships | Collaborations
 ## 💼 Experience
  
 ### Defence AI Internship
-**Duration:** 7 weeks | **Location:** On-site (Defence Unit)
+**Duration:** 7 weeks | **Location:** On-site (IAF Defence Unit)
  
 Built an **air-gapped, multilingual voice AI help desk system** end-to-end — from database design to production deployment:
  
