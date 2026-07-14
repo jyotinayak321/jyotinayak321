@@ -109,7 +109,7 @@ Open to: AI/ML roles | Internships | Collaborations
 **Duration:** [7 weeks] | **Location:** [ Unit]
 - Worked on Defence AI applications
 - [AI HELP DESK]
-- Skills: Python, AI/ML
+- Skills: Python, AI/ML(STT,TTS,WebRTC)
 
 ### Autonomous AI Career Mentor (Personal Project)
 **Tech:** FastAPI, React, LangChain, MongoDB, Docker, Render, Vercel
