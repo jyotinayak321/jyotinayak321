@@ -105,11 +105,11 @@ Open to: AI/ML roles | Internships | Collaborations
 
 ## 💼 Experience
 
-### _ -  AI Internship
-**Duration:** [Months] | **Location:** [ Unit]
+### _ -   INDIAN AIR FORCE AI & ML Internship
+**Duration:** [7 weeks] | **Location:** [ Unit]
 - Worked on Defence AI applications
-- [Specific project details]
-- Skills: Python, AI/ML, [specific tech]
+- [AI HELP DESK]
+- Skills: Python, AI/ML
 
 ### Autonomous AI Career Mentor (Personal Project)
 **Tech:** FastAPI, React, LangChain, MongoDB, Docker, Render, Vercel
