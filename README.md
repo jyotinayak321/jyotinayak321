@@ -57,7 +57,30 @@ Open to: AI/ML roles | Internships | Collaborations
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**🎙️ Voice AI & Real-Time Communication:**
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF6600?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TTS](https://img.shields.io/badge/Text--to--Speech-4B8BBE?style=for-the-badge)
 
+**⚙️ Backend & APIs:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**🗄️ Database & Semantic Search:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Semantic_Search-6A5ACD?style=for-the-badge)
+
+**🔐 Auth & Security:**
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**🐳 DevOps:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
 ---
 
 # **🤖 AI & ML Projects**
