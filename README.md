@@ -116,14 +116,20 @@ Open to: AI/ML roles | Internships | Collaborations
 
 ---
 
+
 ## 💼 Experience
-
-### _ -   INDIAN AIR FORCE AI & ML Internship
-**Duration:** [7 weeks] | **Location:** [ Unit]
-- Worked on Defence AI applications
-- [AI HELP DESK]
-- Skills: Python, AI/ML(STT,TTS,WebRTC)
-
+ 
+### Defence AI Internship
+**Duration:** 7 weeks | **Location:** On-site (Defence Unit)
+ 
+Built an **air-gapped, multilingual voice AI help desk system** end-to-end — from database design to production deployment:
+ 
+- Designed a **FastAPI backend** with a **React/Vite frontend**, using **PostgreSQL + pgvector** for semantic (vector) search
+- Built a real-time **voice pipeline**: WebRTC (via LiveKit) for audio transport, **faster-whisper** for speech-to-text, and offline TTS for responses
+- Implemented **Keycloak-based JWT authentication** and a secure session state machine for voice calls
+- Worked entirely in an **air-gapped (offline) environment** — handled offline model deployment, Docker containers, and two-machine LAN setup with no internet access
+- Debugged real production issues: RAM-constrained model swaps, Windows handle exhaustion, config overrides, and singleton loading for AI models
+**Skills:** Python, FastAPI, PostgreSQL, WebRTC, Speech-to-Text, Text-to-Speech, Docker, Offline/Air-gapped Deployment
 ### Autonomous AI Career Mentor (Personal Project)
 **Tech:** FastAPI, React, LangChain, MongoDB, Docker, Render, Vercel
 - Built 7-module full-stack AI platform
