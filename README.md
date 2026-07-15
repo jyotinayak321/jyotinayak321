@@ -1,170 +1,144 @@
-# Hi, I'm Jyoti Nayak!
+# Hi, I'm Jyoti Nayak! 👋
 
+🚀 **AI/ML Engineer | Full-Stack Developer**
+B.Tech CSE (2027) | CGPA 7.9 | Former AI Intern — Indian Air Force
 
-🚀 AI/ML Software Engineer | Full-Stack Builder
-B.Tech CSE  | CGPA 7.9 | Defence AI Enthusiast
+Building intelligent, production-ready AI systems — from voice AI
+pipelines to full-stack AI platforms.
 
-Building intelligent systems with LLMs, RAG & Autonomous AI
-📌 Skills: FastAPI | React | LangChain | MongoDB | Docker
-📌 Current: Autonomous AI Career Mentor (FastAPI + LangChain + FAISS)
-📌 Experience: 
+📌 **Core Skills:** Python | FastAPI | React | LangChain | PostgreSQL | Docker
+📌 **Currently Building:** AI Career Mentor Platform (FastAPI + LangChain + FAISS)
+📌 **Experience:** Former AI Intern — Indian Air Force (Bilingual Voice AI Help Desk)
 
-Google SWE aspirant | Defence Tech enthusiast
-Open to: AI/ML roles | Internships | Collaborations
-
-📍 Delhi | GitHub: jyotinayak321
-
----
-
-### 🛠️ Skills & Tech Stack
-**💻 Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**⚙️ Backend & APIs:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4A90D9?style=for-the-badge&logo=socketdotio&logoColor=white)
-![SQLModel](https://img.shields.io/badge/SQLModel-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-**🎙️ Voice AI & Real-Time Communication:**
-![WebRTC](https://img.shields.io/badge/WebRTC-4285F4?style=for-the-badge&logo=webrtc&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-FF6600?style=for-the-badge&logoColor=white)
-![Faster Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TTS](https://img.shields.io/badge/Text--to--Speech-4B8BBE?style=for-the-badge&logoColor=white)
-
-**🗄️ Database & Semantic Search:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Semantic_Search-6A5ACD?style=for-the-badge&logoColor=white)
-
-**🔐 Auth & Security:**
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-2D3748?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**📊 Data Science & Visualization:**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**🎨 Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**🤖 AI/ML:**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-013243?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logoColor=white)
-
-**☁️ Cloud & DevOps:**
-![Vercel](https://img.shields.io/badge/Vercel-1F2937?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**🛠️ Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
-
-# **🤖 AI & ML Projects**
-- 🔗 Autonomous AI Career Mentor (FastAPI + React + LangChain)
-  → Live: [Vercel link] | Repo: github.com/jyotinayak321/...
-  
-- 🔗 PDF-Based RAG AI System
-  → github.com/jyotinayak321/PDF-Based-RAG-AI-System
-  
-- 🔗 AI Medical Image Diagnosis (Grad-CAM)
-  → FastAPI backend + React frontend with heatmap visualization
-
-💼 Full-Stack Projects
-- 🔗 AI Document Intelligence System (FastAPI + Groq)
-- 🔗 Carbon Tracker (React + Vercel)
+🎯 Goal: Software Engineer @ Google | AI/ML Engineering roles
+📍 India | GitHub: jyotinayak321
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Skills & Tech Stack
 
+**💻 Languages:** Python · JavaScript · Java
 
-| Stat | Details |
-|------|---------|
-| 👤 Profile | [jyotinayak321](https://github.com/jyotinayak321) |
-| 🐍 Primary Language | Python |
-| 💻 Total Repositories | [View on GitHub](https://github.com/jyotinayak321?tab=repositories) |
-| ⭐ Featured | Autonomous AI Career Mentor |
-| 🔥 Status | Active |
+**⚙️ Backend & APIs:** FastAPI · WebSocket · SQLModel · Pydantic
 
+**🎙️ Voice AI & Real-Time Communication:** WebRTC · LiveKit · Faster-Whisper (STT) · TTS · VAD
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=dark)
+**🗄️ Database & Semantic Search:** PostgreSQL · pgvector · Vector/Semantic Search
 
+**🔐 Auth & Security:** Keycloak · JWT
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jyotinayak321&theme=radical&no-frame=false&no-bg=true&margin-w=4)
----
-## 🤖 My Top Projects
+**📊 Data Science:** NumPy · Pandas · Matplotlib · Scikit-learn
 
-| Project | Tech | Status |
-|---------|------|--------|
-| AI Career Mentor | FastAPI+React+LangChain | ✅ Live |
-| PDF-RAG System | Python+FAISS+Groq | ✅ Open Source |
+**🎨 Frontend:** React · Vite · TailwindCSS
+
+**🤖 AI/ML:** LangChain · RAG · FAISS · Groq · Embedding Models
+
+**☁️ Cloud & DevOps:** Vercel · Render · Google Cloud · Docker
+
+**🛠️ Tools:** Git · GitHub · VS Code · PyCharm
 
 ---
-
 
 ## 💼 Experience
- 
-### Defence AI Internship
-**Duration:** 7 weeks | **Location:** On-site (IAF Defence Unit)
- 
-Built an **air-gapped, multilingual voice AI help desk system** end-to-end — from database design to production deployment:
- 
-- Designed a **FastAPI backend** with a **React/Vite frontend**, using **PostgreSQL + pgvector** for semantic (vector) search
-- Built a real-time **voice pipeline**: WebRTC (via LiveKit) for audio transport, **faster-whisper** for speech-to-text, and offline TTS for responses
-- Implemented **Keycloak-based JWT authentication** and a secure session state machine for voice calls
-- Worked entirely in an **air-gapped (offline) environment** — handled offline model deployment, Docker containers, and two-machine LAN setup with no internet access
-- Debugged real production issues: RAM-constrained model swaps, Windows handle exhaustion, config overrides, and singleton loading for AI models
-**Skills:** Python, FastAPI, PostgreSQL, WebRTC, Speech-to-Text, Text-to-Speech, Docker, Offline/Air-gapped Deployment
-### Autonomous AI Career Mentor (Personal Project)
+
+### Former AI Intern — Indian Air Force
+**Duration:** 7 weeks | **Location:** On-site, secure air-gapped facility
+
+Contributed to building a **Bilingual AI Voice Help Desk System**
+end-to-end — from database design to production deployment, in a
+fully offline (air-gapped) environment.
+
+- Designed a **FastAPI backend** with a **React/Vite frontend**,
+  using **PostgreSQL + pgvector** for semantic search
+- Built a real-time voice pipeline: **WebRTC (via LiveKit)** for
+  audio transport, **faster-whisper** for speech-to-text, and
+  **offline TTS** for voice responses
+- Implemented **Keycloak-based JWT authentication** and a secure
+  session state machine (FSM) for voice calls
+- Worked entirely offline — handled local model deployment, Docker
+  containers, and a two-machine LAN setup with no internet access
+- Debugged real production issues: RAM-constrained model swaps,
+  Windows handle exhaustion, config overrides, and singleton
+  loading for AI models
+
+**Skills:** Python, FastAPI, PostgreSQL, WebRTC, Speech-to-Text,
+Text-to-Speech, Docker, Offline/Air-gapped Deployment
+
+---
+
+### AI Career Mentor Platform (Personal Project)
 **Tech:** FastAPI, React, LangChain, MongoDB, Docker, Render, Vercel
-- Built 7-module full-stack AI platform
-- Integrated Groq LLaMA 3.3-70B for intelligent recommendations
+
+- Built a 7-module full-stack AI platform
+- Integrated **Groq LLaMA 3.3-70B** for intelligent recommendations
 - Deployed backend on Render, frontend on Vercel
-- Features: Job matching, skill gap analysis, interview prep
-- Users can: Upload resume, get AI career coaching, practice interviews
-- 
+- Features: Job matching, skill-gap analysis, interview prep
+- Users can upload a resume, get AI career coaching, and practice interviews
+
+---
+
+## 🤖 AI & ML Projects
+
+| Project | Tech | Status |
+|---|---|---|
+| AI Career Mentor Platform | FastAPI + React + LangChain | ✅ Live |
+| PDF-Based RAG AI System | Python + FAISS + Groq | ✅ Open Source |
+| AI Medical Image Diagnosis (Grad-CAM) | FastAPI + React, heatmap visualization | ✅ Complete |
+
+🔗 [AI Career Mentor Platform](https://github.com/jyotinayak321/...) — Live Demo
+🔗 [PDF-Based RAG AI System](https://github.com/jyotinayak321/PDF-Based-RAG-AI-System)
+
+## 💻 Full-Stack Projects
+
+🔗 AI Document Intelligence System (FastAPI + Groq)
+🔗 Carbon Tracker (React + Vercel)
+
+---
+
 ## 👋 About Me
 
-I'm a **B.Tech CSE student** passionate about building **production-grade AI systems**.
+I'm a third-year Computer Science student who loves turning AI
+concepts into systems that actually work — not just in notebooks,
+but in production.
 
-Currently building: Autonomous AI Career Mentor platform
-Interest: Defence AI, LLMs, Full-Stack AI development
-Goal: Software Engineer @ Google | Defence AI roles
+**Currently building:** AI Career Mentor Platform
+**Interests:** Voice AI, RAG systems, Semantic Search, Full-Stack AI Development
+**Goal:** Software Engineer @ Google | AI/ML Engineering roles
 
 I love:
-✅ Converting ideas into working code
-✅ Deploying production systems (Docker, Vercel, Render)
-✅ Learning cutting-edge AI/ML tech
-✅ Contributing to Defence & National Security through AI
+- ✅ Converting ideas into working, deployed code
+- ✅ Building production systems (Docker, Vercel, Render)
+- ✅ Learning cutting-edge AI/ML techniques
+- ✅ Designing offline-first, resource-constrained AI systems
 
-Open for: Full-time roles, internships, collaborations
+**Open for:** Full-time roles, internships, collaborations
+
+---
 
 ## 🎓 Certifications & Achievements
 
-✅ Google Cloud Badges (Responsible AI, LLMs, GenAI)
-✅  AI Internship ( Currently doing)
-✅ Full-Stack AI Development Experience
+- ✅ Google Cloud Skills Boost (Responsible AI, LLMs, Generative AI)
+- ✅ TATA Forage — GenAI Data Analytics
+- ✅ Deloitte Forage — Technology Simulation
+- ✅ OneRoadmap Certification
+- ✅ Completed AI Internship — Indian Air Force
+
 ---
+
+## 📊 GitHub Stats
+
+| Stat | Details |
+|---|---|
+| 👤 Profile | jyotinayak321 |
+| 🐍 Primary Language | Python |
+| ⭐ Featured Project | AI Career Mentor Platform |
+| 🔥 Status | Active |
+
+---
+
 ## 📫 Let's Connect!
 
-- 📧 Email: rajeshware321@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/jyoti-nayak-988611290/
-- 💻 GitHub: jyotinayak321
-- 🌐 Portfolio: https://jyotinayak321.github.io/MY_PORTFOLIO/
-
-  
+📧 Email: rajeshware321@gmail.com
+🔗 LinkedIn: [jyoti-nayak-988611290](https://www.linkedin.com/in/jyoti-nayak-988611290/)
+💻 GitHub: [jyotinayak321](https://github.com/jyotinayak321)
+🌐 Portfolio: [jyotinayak321.github.io/MY_PORTFOLIO](https://jyotinayak321.github.io/MY_PORTFOLIO/)
