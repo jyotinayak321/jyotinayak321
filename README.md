@@ -1,115 +1,131 @@
 # Hi, I'm Jyoti Nayak! 👋
 
-🚀 **AI/ML Engineer | Full-Stack Developer**
-B.Tech CSE (2027) | CGPA 7.9 | Former AI Intern — Indian Air Force
+🚀 AI/ML Software Engineer | Full-Stack Builder
+B.Tech CSE | CGPA 7.9 | Defence AI Enthusiast
 
-Building intelligent, production-ready AI systems — from voice AI
-pipelines to full-stack AI platforms.
+Building intelligent systems with LLMs, RAG & Autonomous AI
 
-📌 **Core Skills:** Python | FastAPI | React | LangChain | PostgreSQL | Docker
-📌 **Currently Building:** AI Career Mentor Platform (FastAPI + LangChain + FAISS)
-📌 **Experience:** Former AI Intern — Indian Air Force (Bilingual Voice AI Help Desk)
+📌 Skills: FastAPI | React | LangChain | MongoDB | Docker
+📌 Current: Autonomous AI Career Mentor (FastAPI + LangChain + FAISS)
+📌 Experience: Defence AI Internship (May – July 2026)
 
-🎯 Goal: Software Engineer @ Google | AI/ML Engineering roles
-📍 India | GitHub: jyotinayak321
+Google SWE aspirant | Defence Tech enthusiast
+Open to: AI/ML roles | Internships | Collaborations
+
+📍 Delhi | GitHub: jyotinayak321
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-**💻 Languages:** Python · JavaScript · Java
+💻 **Languages:** Python · JavaScript · Java
 
-**⚙️ Backend & APIs:** FastAPI · WebSocket · SQLModel · Pydantic
+⚙️ **Backend & APIs:** FastAPI · WebSocket · SQLModel · Pydantic
 
-**🎙️ Voice AI & Real-Time Communication:** WebRTC · LiveKit · Faster-Whisper (STT) · TTS · VAD
+🎙️ **Voice AI & Real-Time Communication:** WebRTC · LiveKit · Faster Whisper · TTS
 
-**🗄️ Database & Semantic Search:** PostgreSQL · pgvector · Vector/Semantic Search
+🗄️ **Database & Semantic Search:** PostgreSQL · pgvector · Vector Search
 
-**🔐 Auth & Security:** Keycloak · JWT
+🔐 **Auth & Security:** Keycloak · JWT
 
-**📊 Data Science:** NumPy · Pandas · Matplotlib · Scikit-learn
+📊 **Data Science & Visualization:** NumPy · Pandas · Matplotlib · Scikit-learn
 
-**🎨 Frontend:** React · Vite · TailwindCSS
+🎨 **Frontend:** React · Vite · TailwindCSS
 
-**🤖 AI/ML:** LangChain · RAG · FAISS · Groq · Embedding Models
+🤖 **AI/ML:** LangChain · RAG · FAISS · Groq
 
-**☁️ Cloud & DevOps:** Vercel · Render · Google Cloud · Docker
+☁️ **Cloud & DevOps:** Vercel · Render · Google Cloud · Docker
 
-**🛠️ Tools:** Git · GitHub · VS Code · PyCharm
-
----
-
-## 💼 Experience
-
-### Former AI Intern — Indian Air Force
-**Duration:** 7 weeks | **Location:** On-site, secure air-gapped facility
-
-Contributed to building a **Bilingual AI Voice Help Desk System**
-end-to-end — from database design to production deployment, in a
-fully offline (air-gapped) environment.
-
-- Designed a **FastAPI backend** with a **React/Vite frontend**,
-  using **PostgreSQL + pgvector** for semantic search
-- Built a real-time voice pipeline: **WebRTC (via LiveKit)** for
-  audio transport, **faster-whisper** for speech-to-text, and
-  **offline TTS** for voice responses
-- Implemented **Keycloak-based JWT authentication** and a secure
-  session state machine (FSM) for voice calls
-- Worked entirely offline — handled local model deployment, Docker
-  containers, and a two-machine LAN setup with no internet access
-- Debugged real production issues: RAM-constrained model swaps,
-  Windows handle exhaustion, config overrides, and singleton
-  loading for AI models
-
-**Skills:** Python, FastAPI, PostgreSQL, WebRTC, Speech-to-Text,
-Text-to-Speech, Docker, Offline/Air-gapped Deployment
-
----
-
-### AI Career Mentor Platform (Personal Project)
-**Tech:** FastAPI, React, LangChain, MongoDB, Docker, Render, Vercel
-
-- Built a 7-module full-stack AI platform
-- Integrated **Groq LLaMA 3.3-70B** for intelligent recommendations
-- Deployed backend on Render, frontend on Vercel
-- Features: Job matching, skill-gap analysis, interview prep
-- Users can upload a resume, get AI career coaching, and practice interviews
+🛠️ **Tools:** Git · GitHub · PyCharm · VS Code
 
 ---
 
 ## 🤖 AI & ML Projects
 
+🔗 **Bilingual AI Voice Help Desk (Air-Gapped System)**
+   → Built for a secure, offline environment — integrates STT, TTS, VAD, WebRTC & semantic search (Private repo — Defence project)
+
+🔗 **Autonomous AI Career Mentor (FastAPI + React + LangChain)**
+   → Live: [Vercel link] | Repo: github.com/jyotinayak321/...
+
+🔗 **PDF-Based RAG AI System**
+   → github.com/jyotinayak321/PDF-Based-RAG-AI-System
+
+🔗 **AI Medical Image Diagnosis (Grad-CAM)**
+   → FastAPI backend + React frontend with heatmap visualization
+
+## 💼 Full-Stack Projects
+
+🔗 **AI Document Intelligence System** (FastAPI + Groq)
+🔗 **Carbon Tracker** (React + Vercel)
+
+---
+
+## 📊 GitHub Analytics
+
+| Stat | Details |
+|---|---|
+| 👤 Profile | jyotinayak321 |
+| 🐍 Primary Language | Python |
+| 💻 Total Repositories | View on GitHub |
+| ⭐ Featured | Autonomous AI Career Mentor |
+| 🔥 Status | Active |
+
+**Contribution Streak**
+
+**🏆 GitHub Trophies**
+
+---
+
+## 🤖 My Top Projects
+
 | Project | Tech | Status |
 |---|---|---|
-| AI Career Mentor Platform | FastAPI + React + LangChain | ✅ Live |
-| PDF-Based RAG AI System | Python + FAISS + Groq | ✅ Open Source |
-| AI Medical Image Diagnosis (Grad-CAM) | FastAPI + React, heatmap visualization | ✅ Complete |
+| Bilingual AI Voice Help Desk | Python + FastAPI + WebRTC + pgvector | ✅ Completed (Defence) |
+| AI Career Mentor | FastAPI + React + LangChain | ✅ Live |
+| PDF-RAG System | Python + FAISS + Groq | ✅ Open Source |
 
-🔗 [AI Career Mentor Platform](https://github.com/jyotinayak321/...) — Live Demo
-🔗 [PDF-Based RAG AI System](https://github.com/jyotinayak321/PDF-Based-RAG-AI-System)
+---
 
-## 💻 Full-Stack Projects
+## 💼 Experience
 
-🔗 AI Document Intelligence System (FastAPI + Groq)
-🔗 Carbon Tracker (React + Vercel)
+### Defence AI Internship
+**Duration:** May – July 2026 | **Location:** On-site (IAF Defence Unit)
+
+Built an air-gapped, multilingual voice AI help desk system end-to-end — from database design to production deployment:
+
+- Designed a FastAPI backend with a React/Vite frontend, using PostgreSQL + pgvector for semantic (vector) search
+- Built a real-time voice pipeline: WebRTC (via LiveKit) for audio transport, faster-whisper for speech-to-text, and offline TTS for responses
+- Implemented Keycloak-based JWT authentication and a secure session state machine for voice calls
+- Worked entirely in an air-gapped (offline) environment — handled offline model deployment, Docker containers, and two-machine LAN setup with no internet access
+- Debugged real production issues: RAM-constrained model swaps, Windows handle exhaustion, config overrides, and singleton loading for AI models
+
+**Skills:** Python, FastAPI, PostgreSQL, WebRTC, Speech-to-Text, Text-to-Speech, Docker, Offline/Air-gapped Deployment
+
+### Autonomous AI Career Mentor (Personal Project)
+**Tech:** FastAPI, React, LangChain, MongoDB, Docker, Render, Vercel
+
+- Built 7-module full-stack AI platform
+- Integrated Groq LLaMA 3.3-70B for intelligent recommendations
+- Deployed backend on Render, frontend on Vercel
+- Features: Job matching, skill gap analysis, interview prep
+- Users can: Upload resume, get AI career coaching, practice interviews
 
 ---
 
 ## 👋 About Me
 
-I'm a third-year Computer Science student who loves turning AI
-concepts into systems that actually work — not just in notebooks,
-but in production.
+I'm a B.Tech CSE student passionate about building production-grade AI systems.
 
-**Currently building:** AI Career Mentor Platform
-**Interests:** Voice AI, RAG systems, Semantic Search, Full-Stack AI Development
-**Goal:** Software Engineer @ Google | AI/ML Engineering roles
+**Currently building:** Autonomous AI Career Mentor platform
+**Interest:** Defence AI, LLMs, Full-Stack AI development
+**Goal:** Software Engineer @ Google | Defence AI roles
 
 I love:
-- ✅ Converting ideas into working, deployed code
-- ✅ Building production systems (Docker, Vercel, Render)
-- ✅ Learning cutting-edge AI/ML techniques
-- ✅ Designing offline-first, resource-constrained AI systems
+✅ Converting ideas into working code
+✅ Deploying production systems (Docker, Vercel, Render)
+✅ Learning cutting-edge AI/ML tech
+✅ Contributing to Defence & National Security through AI
 
 **Open for:** Full-time roles, internships, collaborations
 
@@ -117,28 +133,15 @@ I love:
 
 ## 🎓 Certifications & Achievements
 
-- ✅ Google Cloud Skills Boost (Responsible AI, LLMs, Generative AI)
-- ✅ TATA Forage — GenAI Data Analytics
-- ✅ Deloitte Forage — Technology Simulation
-- ✅ OneRoadmap Certification
-- ✅ Completed AI Internship — Indian Air Force
-
----
-
-## 📊 GitHub Stats
-
-| Stat | Details |
-|---|---|
-| 👤 Profile | jyotinayak321 |
-| 🐍 Primary Language | Python |
-| ⭐ Featured Project | AI Career Mentor Platform |
-| 🔥 Status | Active |
+✅ Google Cloud Badges (Responsible AI, LLMs, GenAI)
+✅ Defence AI Internship (Completed — May to July 2026)
+✅ Full-Stack AI Development Experience
 
 ---
 
 ## 📫 Let's Connect!
 
-📧 Email: rajeshware321@gmail.com
-🔗 LinkedIn: [jyoti-nayak-988611290](https://www.linkedin.com/in/jyoti-nayak-988611290/)
-💻 GitHub: [jyotinayak321](https://github.com/jyotinayak321)
-🌐 Portfolio: [jyotinayak321.github.io/MY_PORTFOLIO](https://jyotinayak321.github.io/MY_PORTFOLIO/)
+📧 **Email:** rajeshware321@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/jyoti-nayak-988611290/
+💻 **GitHub:** jyotinayak321
+🌐 **Portfolio:** https://jyotinayak321.github.io/MY_PORTFOLIO/
