@@ -115,19 +115,20 @@ Built an air-gapped, multilingual voice AI help desk system end-to-end — from 
 
 ## 👋 About Me
 
-I'm a B.Tech CSE student passionate about building production-grade AI systems.
+I'm a B.Tech CSE student passionate about building production-grade 
+AI systems.
 
-**Currently building:** Autonomous AI Career Mentor platform
-**Interest:** Defence AI, LLMs, Full-Stack AI development
-**Goal:** Software Engineer @ Google | Defence AI roles
+Currently building: Autonomous AI Career Mentor platform
+Interests: Defence AI, LLMs, Full-Stack AI development
+Goal: Software Engineer @ Google | Defence AI roles
 
 I love:
 ✅ Converting ideas into working code
 ✅ Deploying production systems (Docker, Vercel, Render)
-✅ Learning cutting-edge AI/ML tech
+✅ Learning cutting-edge AI/ML technologies
 ✅ Contributing to Defence & National Security through AI
 
-**Open for:** Full-time roles, internships, collaborations
+Open to: Full-time roles, internships, and collaborations
 
 ---
 
