@@ -1,4 +1,10 @@
+<img width="1584" height="396" alt="Black and White Minimalist LinkedIn Background Photo (1)" src="https://github.com/user-attachments/assets/8c661567-1202-46fa-b92f-d7f46ab404c6" />
+
+
+
+
 # Hi, I'm Jyoti Nayak! 👋
+
 
 🚀 AI/ML Software Engineer | Full-Stack Builder
 B.Tech CSE | CGPA 7.9 | Defence AI Enthusiast
