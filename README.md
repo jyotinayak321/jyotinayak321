@@ -150,4 +150,7 @@ Built an air-gapped, multilingual voice AI help desk system end-to-end:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotinayak321&theme=radical&hide_border=true)
 
 ---
- ## 📫 Let's Connect! 📧 **Email:** rajeshware321@gmail.com🔗 **LinkedIn:** https://www.linkedin.com/in/jyoti-nayak-988611290/💻 **GitHub:** jyotinayak321🌐 **Portfolio:** https://jyotinayak321.github.io/MY_PORTFOLIO/
+ ## 📫 Let's Connect! 📧 **Email:** rajeshware321@gmail.com🔗
+ **LinkedIn:** https://www.linkedin.com/in/jyoti-nayak-988611290/💻
+ **GitHub:** jyotinayak321🌐
+ **Portfolio:** https://jyotinayak321.github.io/MY_PORTFOLIO/
