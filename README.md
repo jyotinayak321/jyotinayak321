@@ -151,6 +151,6 @@ Built an air-gapped, multilingual voice AI help desk system end-to-end:
 
 ---
  ## 📫 Let's Connect! 📧 **Email:** rajeshware321@gmail.com🔗
- **LinkedIn:** https://www.linkedin.com/in/jyoti-nayak-988611290/💻
- **GitHub:** jyotinayak321🌐
- **Portfolio:** https://jyotinayak321.github.io/MY_PORTFOLIO/
+- LinkedIn:** https://www.linkedin.com/in/jyoti-nayak-988611290/💻
+-  GitHub:** jyotinayak321🌐
+-  Portfolio:** https://jyotinayak321.github.io/MY_PORTFOLIO/
