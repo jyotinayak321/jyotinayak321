@@ -23,14 +23,18 @@ Building intelligent systems with LLMs, RAG & Autonomous AI
 ---
 
 ## 👋 About Me
+I'm a B.Tech CSE student and AI/ML Engineer passionate about building production-grade AI systems.
 
-I'm a B.Tech CSE student passionate about building **production-grade AI systems** — not just prototypes, but things that actually get deployed and used.
+🔭 Currently building: Autonomous AI Career Mentor
 
-- 🔭 Currently building: **Autonomous AI Career Mentor** platform
-- 🌱 Interests: Defence AI, LLMs, RAG systems, Full-Stack AI development
-- 🎯 Goal: Software Engineer @ Google | Defence-sector AI roles
-- ✅ I love converting ideas into working, deployed code (Docker, Vercel, Render)
-- 📫 Open to full-time roles, internships, and collaborations
+🛠️ Experience: Defence AI • Voice AI • LLMs • RAG • AI Agents • Full-Stack AI
+
+I have experience building air-gapped AI systems, real-time voice pipelines, semantic search, and deploying AI applications using FastAPI, React, Docker, Render, and Vercel.
+
+🎯 Aspiring Software Engineer @ Google | Exploring Defence AI opportunities
+
+📫 Open to internships, full-time roles, and collaborations.
+
 
 ---
 
