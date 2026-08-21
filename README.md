@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Jyoti Nayak 👋</h1>
 
 <p align="center">
-🚀 AI/ML Software Engineer | Full-Stack Builder | B.Tech CSE (CGPA 7.9) | Defence AI Enthusiast
+🚀 AI/ML Software Engineer | Full-Stack Builder | B.Tech CSE (CGPA 8.0) | Defence AI Enthusiast
 </p>
 
 <p align="center">
